@@ -1,5 +1,5 @@
 -   id: test-pygrep
     name: test pygrep
     description: This is a test of pygrep.
-    entry: xxx
+    entry: this
     language: pygrep
